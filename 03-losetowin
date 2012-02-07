@@ -17,8 +17,8 @@ prevent the same mistakes from occurring in the future.
 People tend to act differently after a match depending on whether they win or
 lose. At first glance, this idea makes a whole lot of sense; we should of course
 be happy when we win and unhappy when we lose! Or should we? Let's call this
-Hypothesis Alpha. We are going to evaluate it in more detail at a later date,
-but we will start with a single premise:
+the Alpha Hypothesis. We are going to evaluate it in more detail at a later 
+date, but we will start with a single premise:
 
 A) If I lose a game, I have clearly done something wrong.
 
@@ -56,35 +56,3 @@ reading, and keep on losin'.
 Sincerely,
 
 Daniel Moniz, AKA Paragon
-
-This is all I will say about replays at this time. I will consider coming 
-back to them if I feel that 
-
-
-- we learn more from losses than wins
-
-- gamers lose ~50% of their matches
-
-
-
-
-As it turns out, gamers lose approximately 50% of all of their games. Of course 
-it averages out this way, but take a look at win-loss ratios on a much more 
-granular scale. If a gamer 
-
------------------------------
-
-To explain what I mean when I talk about failures, I must explain something
-about modern competitive gaming. Games are no longer about leaderboards in
-arcade rooms. There are no longer ancient top scores people can only dream of
-reaching, or games that people can only play together when in the same room. 
-Modern games use the ELO rating system (used in professional chess) or other 
-to determine players' skill levels and ensure that they are always matched
-against others of similar ability.
-
-These constraints ensure that players are, on the whole, winning about 50% of
-their games. If they are not, they are either working their way up the ladder,
-or slipping downwards. Assuming that players tend to find their equilibrium,
-this implies that most people win about half of the time. Even the current top
-3 players of Starcraft 2 (date: 2012-01-25) win less than 70% of their games. If
-you're winning more than that, you're not playing against the right people.
